@@ -28,5 +28,3 @@ This project predicts whether a person's income exceeds 50K per year using machi
 - Model Accuracy: 85% (update with your actual value)  
 - Model predicts whether income is >50K or <=50K  
 - Performance evaluated using classification report  
-
---
