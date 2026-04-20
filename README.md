@@ -10,10 +10,25 @@ This project predicts whether a person's income exceeds 50K per year using machi
 - Scikit-learn  
 
 ## Dataset
-- **Name:** Adult Income Dataset  
-- Source: UCI Machine Learning Repository  
-- Task: Binary classification (Income >50K or <=50K)
+- **Name:** income.csv  
+- **Description:** Adult Income dataset used to predict whether income is greater than 50K or not.  
 
+### Features:
+- age  
+- JobType  
+- EdType  
+- maritalstatus  
+- occupation  
+- relationship  
+- race  
+- gender  
+- capitalgain  
+- capitalloss  
+- hoursperweek  
+- nativecountry  
+
+### Target Variable:
+- SalStat (less than or equal to 50K / greater than 50K)
 ## Model
 - Logistic Regression (Scikit-learn)
 
